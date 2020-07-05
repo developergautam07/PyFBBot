@@ -1,4 +1,4 @@
-# pybot
+# pyfbbot
 This is a Facebook bot made with python.
 
 Requirement: pynput
