@@ -1,3 +1,7 @@
+'''
+@author - Developer Gautam Sharma
+'''
+
 from pynput.keyboard import Key, Controller
 import time
 
